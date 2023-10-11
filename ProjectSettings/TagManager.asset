@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Heart
+  - Potion
+  - Spell
+  - Collectible
+  - Obj Container
+  - inventorySlotTemplate
+  - inventorySlotHolder
+  - Door
+  - PopUp
+  - NightText
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - PlayerSpell
+  - Enemy
+  - EnemySpell
+  - Interactable
+  - Barrier
+  - Rare Chest
+  - NightRoom
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Walls
+  - PostProcessing
+  - Tracking Zone
+  - InteractZone
+  - Ground
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

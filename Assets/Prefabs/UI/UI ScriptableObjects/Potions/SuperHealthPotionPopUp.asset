@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de6e131be1004ce48b7713b39024621a, type: 3}
+  m_Name: SuperHealthPotionPopUp
+  m_EditorClassIdentifier: 
+  ObjRef: {fileID: 3189033264144569497, guid: 769fa30a981fa7945b3c4562b99df8f4, type: 3}
+  itemName: Super Health Potion
+  description: 'Restores all HP. Recipe: 1 Item B + 1 Item D'
+  art: {fileID: 21300000, guid: c8114f976d7ae084281f2406faa06077, type: 3}
